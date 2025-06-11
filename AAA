@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Campo Cidade</title>
+</head>
+<body>
+    <form>
+        <label for="cidade">Cidade:</label>
+        <input type="text" id="cidade" name="cidade" placeholder="Digite o nome da cidade">
+        <button type="submit">Enviar</button>
+    </form>
+</body>
+</html>
+
